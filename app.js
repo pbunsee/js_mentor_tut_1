@@ -23,6 +23,10 @@ function getWords(){
 }
 
 /*
+var inVal = "hello dear friend. my name is Nigerian Prince! I want to do business with you. What do you think of that?”
+
+inVal
+
 var sentenceRegex = /[^\.!\?]+[\.!\?]+/g;
 
 sentenceRegex
